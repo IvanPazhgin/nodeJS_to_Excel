@@ -1,0 +1,20 @@
+{
+  "name": "nodejs_excel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "Excel",
+    "Google Sheets API"
+  ],
+  "author": "Ivan Pazhgin <ivan.pazhgin@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.3.9",
+    "exceljs": "^4.3.0",
+    "google-spreadsheet": "^3.3.0"
+  }
+}
